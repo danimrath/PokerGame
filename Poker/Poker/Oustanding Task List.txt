@@ -1,0 +1,6 @@
+Poker Game To-Do List
+1) Kick players with duplicate cards
+2) Kick players with invalid cards
+3) Evaluate Hands class/method?
+4) Implement Enumerable PlayerList class to replace arraylist?
+5) Comment code 

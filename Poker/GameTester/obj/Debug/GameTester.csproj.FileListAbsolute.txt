@@ -1,0 +1,8 @@
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\Poker\GameTester\bin\Debug\GameTester.exe.config
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\Poker\GameTester\obj\Debug\GameTester.csprojResolveAssemblyReference.cache
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\Poker\GameTester\bin\Debug\GameTester.exe
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\Poker\GameTester\bin\Debug\GameTester.pdb
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\Poker\GameTester\bin\Debug\Poker.dll
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\Poker\GameTester\bin\Debug\Poker.pdb
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\Poker\GameTester\obj\Debug\GameTester.exe
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\Poker\GameTester\obj\Debug\GameTester.pdb

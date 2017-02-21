@@ -1,0 +1,5 @@
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\Poker\Poker\bin\Release\Poker.dll
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\Poker\Poker\bin\Release\Poker.pdb
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\Poker\Poker\obj\Release\Game.csprojResolveAssemblyReference.cache
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\Poker\Poker\obj\Release\Poker.dll
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\Poker\Poker\obj\Release\Poker.pdb
